@@ -9,14 +9,11 @@ A simple command-line app built in Python.
 - Remembers user name
 
 ## ▶️ How to Run
-1. Make sure Python is installed
 2. Run the program:
-   python app.py
+   python app.py.
 
 ## 📁 Files Created
 - user.txt → stores your name
 - mood.txt → stores moods
 - notes.txt → stores notes
 
-## 👨‍💻 Author
-Phelvis
